@@ -8,6 +8,7 @@ index fd86dd7..a1dae9f 100644
  body.admin-menu {
 -  margin-top: 20px !important;
 +  padding-top: 28px !important;
++  overflow: hidden;
  }
- 
+
  /* All lists */
