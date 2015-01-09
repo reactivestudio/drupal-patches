@@ -5,8 +5,8 @@
  }
  body.admin-menu {
 -  margin-top: 20px !important;
-+  padding-top: 20px !important;
++  padding-top: 28px !important;
 +  overflow-y: hidden;
  }
- 
+
  /* All lists */
