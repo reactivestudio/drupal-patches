@@ -1,14 +1,12 @@
-diff --git a/admin_menu.css b/admin_menu.css
-index fd86dd7..a1dae9f 100644
---- a/admin_menu.css
-+++ b/admin_menu.css
-@@ -43,7 +43,7 @@
+--- admin_menu.css	2015-01-09 22:09:59.000000000 +0700
++++ admin_menu_p.css	2015-01-09 22:10:42.000000000 +0700
+@@ -43,7 +43,8 @@
    border-right: none;
  }
  body.admin-menu {
 -  margin-top: 20px !important;
-+  padding-top: 28px !important;
-+  overflow: hidden;
++  padding-top: 20px !important;
++  overflow-y: hidden;
  }
-
+ 
  /* All lists */
